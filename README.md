@@ -1,0 +1,2 @@
+# prsk
+skrypty
